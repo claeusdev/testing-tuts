@@ -1,4 +1,4 @@
-const name = 'Nana'
+const sur = 'Nana'
 typeof name === 'string'
 
 if (!('serviceWorker' in navigator)) {
