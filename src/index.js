@@ -1,7 +1,8 @@
 const sur = 'Nana'
-typeof name === 'string'
+typeof sur === 'string'
 
 if (!('serviceWorker' in navigator)) {
+  console.log('heya')
 }
 
 const greeting = 'Hello'
