@@ -1,0 +1,15 @@
+{
+  "name": "stat-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src"
+  },
+  "keywords": [],
+  "author": "Nana Adjei Manu <claeusdev@outlook.com> (https://nanamanu.xyz/)",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "6.0.1"
+  }
+}
